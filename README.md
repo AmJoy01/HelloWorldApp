@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 ## Notes
 
-Pushing into github from android studio.
+Pushing into github from android studio. I had to delete the main branch and just use my tester branch.
 
 ## License
 
